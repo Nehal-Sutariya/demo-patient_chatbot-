@@ -6,3 +6,6 @@ Built using Streamlit (frontend) and Python (backend), the chatbot stores the PD
 
 Screen-1
 ![image alt](https://github.com/Nehal-Sutariya/demo-patient_chatbot-/blob/d243a6f74c9e8d3bee45bd6e5e4992c0795cfc90/patient_ss1.png)
+Screen-2
+![image alt](https://github.com/Nehal-Sutariya/demo-patient_chatbot-/blob/cee0ecfbac728f7a3e7210026e989faaec2282ea/patient_ss2.png)
+Screen-3
